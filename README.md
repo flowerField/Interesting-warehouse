@@ -58,30 +58,38 @@
  - [程序员简历模板系列](https://github.com/geekcompany/ResumeSample)
  - [每天搞定一道前端大厂面试题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
  - [前端面试每日 3+1](https://github.com/haizlin/fe-interview)
+ - [前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
+ - [前端入门](https://github.com/qiu-deqing/FE-learning)
+ - [前端面试复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
  
 ## 前端资讯
  - [前端精读周刊](https://github.com/ascoders/weekly)
  
-### 教程
+### 资源物料
  - [千古前端图文教程](https://github.com/qianguyihao/Web)
  - [前端技能汇总](https://github.com/JacksonTian/fks)
- 
+ - [JavaScript 资源大全-停更了](https://github.com/jobbole/awesome-javascript-cn)
+ - [前端资源汇总仓库-断更了](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
+ - [前端资源汇总](https://github.com/FrontEndGitHub/FrontEndGitHub)
+ - [技术博客汇总](https://github.com/yangchong211/YCBlogs)
+ - [IT 行业应试学知识库-Interview](https://github.com/apachecn/Interview)
+
 ### 书籍
  - [计算机类常用电子书整理](https://github.com/iamshuaidi/CS-Book)
  - [计算机类常用电子书整理](https://github.com/iCSToCS/CSBook)
  - [经典编程书籍](https://github.com/imarvinle/awesome-cs-books)
  - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
+ - [超1000本计算机书籍](https://github.com/forthespada/CS-Books)
 
 ### 其他
  - [AMP-Web 组件框架](https://github.com/ampproject/amphtml)
  - [W3C-Web中文兴趣组](https://github.com/w3c/chinese-ig)
- - [IT 行业应试学知识库-Interview](https://github.com/apachecn/Interview)
- - [技术博客汇总](https://github.com/yangchong211/YCBlogs)
- - [前端资源汇总](https://github.com/FrontEndGitHub/FrontEndGitHub)
  - [可视化的接口管理平台](https://github.com/YMFE/yapi)
  - [微人事是一个前后端分离的人力资源管理系统](https://github.com/lenve/vhr)
  - [电商后台管理系统的前端项目](https://github.com/macrozheng/mall-admin-web)
  - [Flutter 超完整的开源项目](https://github.com/CarGuo/gsy_github_app_flutter)
+ - [新蜂商场-电商系统](https://github.com/newbee-ltd/newbee-mall)
+ - [RAP2-DELOS 开源社区版本 (后端 API 服务器)](https://github.com/thx/rap2-delos)
  
  
  
