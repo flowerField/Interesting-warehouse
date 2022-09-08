@@ -1,4 +1,5 @@
-# Interesting-warehouse
+# 花田半亩
+
 本仓库收集有意思（有用、有趣、有价值等）的代码仓库
 
 ### 算法
@@ -38,10 +39,12 @@
 - [前端低代码框架AMIS](https://github.com/baidu/amis)
 - [腾讯前端跨框架框架-Omi](https://github.com/Tencent/omi)
 - [腾讯移动 Web 前端知识库](https://github.com/AlloyTeam/Mars)
+- [webfunny-轻量级的前端监控系统](https://github.com/a597873885/webfunny_monitor)
 
 
 ### 测试
 - [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+- [测试解决方案About F2etest](https://github.com/alibaba/f2etest)
 
 ### 微前端
  - [single-spa](https://github.com/single-spa/single-spa)
@@ -61,9 +64,14 @@
  - [前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
  - [前端入门](https://github.com/qiu-deqing/FE-learning)
  - [前端面试复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
+ - [前端面试集锦](https://github.com/lgwebdream/FE-Interview)
+ - [前端语音社群-面试](https://github.com/febobo/web-interview)
+ 
  
 ## 前端资讯
  - [前端精读周刊](https://github.com/ascoders/weekly)
+ - [国内外前端领域最新的优秀文章以及行业进展](https://github.com/tnfe/TNT-Weekly)
+ 
  
 ### 资源物料
  - [千古前端图文教程](https://github.com/qianguyihao/Web)
@@ -73,6 +81,9 @@
  - [前端资源汇总](https://github.com/FrontEndGitHub/FrontEndGitHub)
  - [技术博客汇总](https://github.com/yangchong211/YCBlogs)
  - [IT 行业应试学知识库-Interview](https://github.com/apachecn/Interview)
+ - [你想知道的前端内容都在这](https://github.com/KieSun/all-of-frontend)
+ - [前端资源汇总仓库](https://github.com/FrontEndGitHub/FrontEndGitHub)
+ - [前端入门方法](https://github.com/qiu-deqing/FE-learning)
 
 ### 书籍
  - [计算机类常用电子书整理](https://github.com/iamshuaidi/CS-Book)
@@ -80,6 +91,7 @@
  - [经典编程书籍](https://github.com/imarvinle/awesome-cs-books)
  - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
  - [超1000本计算机书籍](https://github.com/forthespada/CS-Books)
+ - [国内外互联网技术](https://github.com/doocs/technical-books)
 
 ### 其他
  - [AMP-Web 组件框架](https://github.com/ampproject/amphtml)
@@ -90,6 +102,22 @@
  - [Flutter 超完整的开源项目](https://github.com/CarGuo/gsy_github_app_flutter)
  - [新蜂商场-电商系统](https://github.com/newbee-ltd/newbee-mall)
  - [RAP2-DELOS 开源社区版本 (后端 API 服务器)](https://github.com/thx/rap2-delos)
- 
- 
+ - [TS + Canvas 开发的抽奖插件](https://github.com/buuing/lucky-canvas)
+ - [猫的前端回忆录](https://github.com/windiest/Front-end-tutorial)
+ - [大前端的瑞士军刀](https://github.com/nieweidong/fetool)
+ - [收集优质的中文前端博客](https://github.com/FrankFang/best-chinese-front-end-blogs)
+ - [RMEB打通版v4免费开源商城系统](https://github.com/crmeb/CRMEB)
+ - [后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板](https://github.com/zhongshaofa/layuimini)
+ - [MDUI 是一个基于 Material Design 的前端框架](https://github.com/zdhxiong/mdui)
+ - [内容管理系统](https://github.com/doramart/DoraCMS)
+ - [干净免费的面试刷题网站](https://github.com/liyupi/mianshiya-public)
+ - [个人博客，前端技术收集](https://github.com/airuikun/technology-blog)
+ - [微前端的那些事儿](https://github.com/phodal/microfrontends)
+ - [前端开发指南](https://github.com/icepy/Front-End-Develop-Guide)
+ - [Naive Ui Admin](https://github.com/jekip/naive-ui-admin)
+ - [阅读3服务器版](https://github.com/hectorqin/reader)
+ - [前端内参](https://github.com/coffe1891/frontend-hard-mode-interview)
+ - [前端进阶】优质博文](https://github.com/YvetteLau/Blog)
+ - [整理收集最有趣的前端技术教程及文档](https://github.com/cucygh/fe-material)
+ - [专业的编程导航](https://github.com/liyupi/code-nav)
  
