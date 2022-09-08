@@ -15,7 +15,10 @@
 [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
 ### 微前端
-[single-spa](https://github.com/single-spa/single-spa)
-[阿里微前端框架-IceStark](https://github.com/ice-lab/icestark)
-[阿里微前端框架-qiankun](https://github.com/umijs/qiankun)
-[字节微前端框架-garfish](https://github.com/modern-js-dev/garfish)
+ - [single-spa](https://github.com/single-spa/single-spa)
+ - [阿里微前端框架-IceStark](https://github.com/ice-lab/icestark)
+ - [阿里微前端框架-qiankun](https://github.com/umijs/qiankun)
+ - [字节微前端框架-garfish](https://github.com/modern-js-dev/garfish)
+ - [欢聚时代微前端框架-EMP](https://github.com/efoxTeam/emp)
+ - [fronts](https://github.com/unadlib/fronts)
+ - [京东微前端框架-micro-app](https://github.com/micro-zoe/micro-app)
