@@ -3,7 +3,7 @@
 
 ### 算法
 
-[代码随想录-leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+- [代码随想录-leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
 ### 语言
  - [Rust语言圣经](https://github.com/sunface/rust-course)
@@ -14,11 +14,11 @@
  - [简单的虚拟DOM](https://github.com/livoras/simple-virtual-dom)
 
 ### 工具
-[VSCode](https://github.com/microsoft/vscode)
-[代码分析与自动化重构](https://github.com/modernizing/modernization)
+- [VSCode](https://github.com/microsoft/vscode)
+- [代码分析与自动化重构](https://github.com/modernizing/modernization)
 
 ### 测试
-[Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
+- [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 
 ### 微前端
  - [single-spa](https://github.com/single-spa/single-spa)
