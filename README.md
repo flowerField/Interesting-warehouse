@@ -28,3 +28,7 @@
  - [欢聚时代微前端框架-EMP](https://github.com/efoxTeam/emp)
  - [fronts](https://github.com/unadlib/fronts)
  - [京东微前端框架-micro-app](https://github.com/micro-zoe/micro-app)
+
+### 其他
+ - [AMP-Web 组件框架](https://github.com/ampproject/amphtml)
+ - [W3C-Web中文兴趣组](https://github.com/w3c/chinese-ig)
