@@ -7,7 +7,11 @@
 
 ### 语言
  - [Rust语言圣经](https://github.com/sunface/rust-course)
- - [7天学会NodeJS](七天学会NodeJS)(https://github.com/nqdeng/7-days-nodejs)
+ - [7天学会NodeJS](https://github.com/nqdeng/7-days-nodejs)
+
+
+### Vue相关
+ - [简单的虚拟DOM](https://github.com/livoras/simple-virtual-dom)
 
 ### 工具
 [VSCode](https://github.com/microsoft/vscode)
