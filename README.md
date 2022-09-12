@@ -117,7 +117,7 @@
  - [Naive Ui Admin](https://github.com/jekip/naive-ui-admin)
  - [阅读3服务器版](https://github.com/hectorqin/reader)
  - [前端内参](https://github.com/coffe1891/frontend-hard-mode-interview)
- - [前端进阶】优质博文](https://github.com/YvetteLau/Blog)
+ - [前端进阶优质博文](https://github.com/YvetteLau/Blog)
  - [整理收集最有趣的前端技术教程及文档](https://github.com/cucygh/fe-material)
  - [专业的编程导航](https://github.com/liyupi/code-nav)
  
