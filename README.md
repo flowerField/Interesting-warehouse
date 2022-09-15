@@ -20,31 +20,47 @@
 - [用JavaScript实现的算法和数据结构](https://github.com/ConardLi/awesome-coding-js)
 
 
-### CSS
-- [MetroUI-很有个性的UI](http://metroui.org.ua/)
-- [Font-Awesome-图标字体库](http://fontawesome.io/)
-- [LoadersCSS-用 CSS 实现 loading 动画](https://connoratherton.com/loaders)
-- [text-spinners-spinners 效果的库，适合用来做 loading](https://github.com/tawian/text-spinners)
-- [WeUI-套同微信原生视觉体验一致的基础样式库 为微信 Web 开发量身设计](https://github.com/weui/weui)
-- [PostCSS](https://github.com/postcss/postcss) 
-- [《PostCSS深入学习》](http://www.w3cplus.com/PostCSS/postcss-deep-dive-what-you-need-to-know.html)
-- [CSSgram-图片滤镜库用 CSS 在 web 上实现滤镜的效果](https://github.com/una/CSSgram)
-- [HINT.css-提示框效果](https://github.com/chinchang/hint.css)
-- [Balloon.css-提示框效果](http://kazzkiq.github.io/balloon.css/)
-- [Hover.css-鼠标 Hover 态的效果](http://ianlunn.github.io/Hover/)
-- [Cursor-记录各浏览器对Cursor的支持情况](http://css-cursor.techstream.org/)
-- [csscss-用于检查 CSS 代码冗余](https://github.com/zmoazeni/csscss)
-- [purecss-小巧的响应式 CSS 库，Yahoo!出品](http://purecss.io/)
-- [hamburgers-简单的动画库，让 Click(or Tap) 变得美妙](https://jonsuh.com/hamburgers/)
-- [cssmatic-调试CSS效果的工具](http://www.cssmatic.com)
+### NPM包
+- [koa](http://koajs.com/) 
+- [CNPM](http://npm.taobao.org/)
+- [lodash](https://www.npmjs.com/package/lodash) 
+- [socket.io](https://github.com/socketio/socket.io)
+- [anywhere-将你的当前目录变成一个静态文件服务器的根目录](https://www.npmjs.com/package/anywhere)
+- [supervisor-监控 Node 代码，自动重启](https://www.npmjs.com/package/supervisor)
+- [nodemon-监控 Node 代码，自动重启](https://github.com/remy/nodemon)
+- [pm2-带有负载均衡功能的 Node 应用的进程管理器](https://www.npmjs.com/package/pm2)
+- [cz-cli](https://github.com/commitizen/cz-cli)
+- [async-流程控制工具包](https://www.npmjs.com/package/async)
+- [optimist-处理argv命令](https://www.npmjs.com/package/optimist)
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+- [Commander-方便的创建基于 Node 的命令行工具](https://github.com/tj/commander.js)
+- [Mongoose- 让 NodeJS 更容易操作 Mongodb 数据库](https://github.com/Automattic/mongoose)
+- [Shipit-自动化部署工具](https://github.com/shipitjs/shipit)
+- [node-inspector- Node 调试工具](https://www.npmjs.com/package/node-inspector)
+- [winston-Node 服务的日志库](https://www.npmjs.com/package/winston)
+- [co-用 generator 写法让异步代码同步](https://www.npmjs.com/package/co)
+- [thenify-all](https://www.npmjs.com/package/thenify-all) 
+- [PhantomJS-抓取截图和无界面测试](http://phantomjs.org/)
+- [ava-测试运行器](https://www.npmjs.com/package/ava)
+- [koa-validate-校验库](https://www.npmjs.com/package/koa-validate)
+- [line-reader-基于steam的按行读文件](https://www.npmjs.com/package/line-reader)
+- [binary](https://github.com/substack/node-binary)
+- [everyauth-OAuth 的集成解决方案](https://www.npmjs.com/package/everyauth)
+- [shelljs-基于 Node 的 shell 工具](http://documentup.com/shelljs/shelljs)
+- [hashids-给 userid 加解密用](https://www.npmjs.com/package/hashids)
+- [node-pool-连接池](https://github.com/coopernurse/node-pool)
+- [colors-颜色丰富的打印](https://www.npmjs.com/package/colors)
+- [n-Node版本控制](https://www.npmjs.com/package/n)
+
+### 人
+ - [substack](https://github.com/substack)
+ - [John Z.Sonmez](https://twitter.com/simpleprogrammr)
 
 ### 语言
  - [Rust语言圣经](https://github.com/sunface/rust-course)
  - [7天学会NodeJS](https://github.com/nqdeng/7-days-nodejs)
+ - [Mongoose 学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd)
 
-
-### Vue相关
- - [简单的虚拟DOM](https://github.com/livoras/simple-virtual-dom)
 
 ### 工具
 - [VSCode](https://github.com/microsoft/vscode)
@@ -60,7 +76,27 @@
 - [webfunny-轻量级的前端监控系统](https://github.com/a597873885/webfunny_monitor)
 
 
+### CSS
+- [MetroUI-很有个性的UI](http://metroui.org.ua/)
+- [Font-Awesome-图标字体库](http://fontawesome.io/)
+- [LoadersCSS-用 CSS 实现 loading 动画](https://connoratherton.com/loaders)
+- [text-spinners-spinners 效果的库，适合用来做 loading](https://github.com/tawian/text-spinners)
+- [WeUI-套同微信原生视觉体验一致的基础样式库 为微信 Web 开发量身设计](https://github.com/weui/weui)
+- [PostCSS](https://github.com/postcss/postcss) 
+- [PostCSS深入学习](http://www.w3cplus.com/PostCSS/postcss-deep-dive-what-you-need-to-know.html)
+- [CSSgram-图片滤镜库用 CSS 在 web 上实现滤镜的效果](https://github.com/una/CSSgram)
+- [HINT.css-提示框效果](https://github.com/chinchang/hint.css)
+- [Balloon.css-提示框效果](http://kazzkiq.github.io/balloon.css/)
+- [Hover.css-鼠标 Hover 态的效果](http://ianlunn.github.io/Hover/)
+- [Cursor-记录各浏览器对Cursor的支持情况](http://css-cursor.techstream.org/)
+- [csscss-用于检查 CSS 代码冗余](https://github.com/zmoazeni/csscss)
+- [purecss-小巧的响应式 CSS 库，Yahoo!出品](http://purecss.io/)
+- [hamburgers-简单的动画库，让 Click(or Tap) 变得美妙](https://jonsuh.com/hamburgers/)
+- [cssmatic-调试CSS效果的工具](http://www.cssmatic.com)
+
+
 ### 测试
+- [Mocha](https://github.com/mochajs/mocha)
 - [Jest 实践指南](https://github.com/haixiangyan/jest-tutorial)
 - [测试解决方案About F2etest](https://github.com/alibaba/f2etest)
 
@@ -102,6 +138,8 @@
  - [你想知道的前端内容都在这](https://github.com/KieSun/all-of-frontend)
  - [前端资源汇总仓库](https://github.com/FrontEndGitHub/FrontEndGitHub)
  - [前端入门方法](https://github.com/qiu-deqing/FE-learning)
+ - [《CNPM搭建私有的NPM服务》](http://blog.fens.me/nodejs-cnpm-npm/)
+ - [Koa官方的文章教程](https://github.com/guo-yu/koa-guide)
 
 ### 书籍
  - [计算机类常用电子书整理](https://github.com/iamshuaidi/CS-Book)
@@ -138,4 +176,5 @@
  - [前端进阶优质博文](https://github.com/YvetteLau/Blog)
  - [整理收集最有趣的前端技术教程及文档](https://github.com/cucygh/fe-material)
  - [专业的编程导航](https://github.com/liyupi/code-nav)
+ - [简单的虚拟DOM](https://github.com/livoras/simple-virtual-dom)
  
