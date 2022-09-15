@@ -21,21 +21,22 @@
 
 
 ### CSS
-- [MetroUI](http://metroui.org.ua/) - 很有个性的UI
-- [Font-Awesome](http://fontawesome.io/) - 图标字体库。
-- [LoadersCSS](https://connoratherton.com/loaders) - 用 CSS 实现 loading 动画； 
-- [text-spinners](https://github.com/tawian/text-spinners) -  spinners 效果的库，适合用来做 loading。
-- [WeUI](https://github.com/weui/weui) - 一套同微信原生视觉体验一致的基础样式库 为微信 Web 开发量身设计。
-- [PostCSS](https://github.com/postcss/postcss) - [Autoprefixer](https://github.com/postcss/autoprefixer)是其插件 具体可以参考[《PostCSS深入学习》](http://www.w3cplus.com/PostCSS/postcss-deep-dive-what-you-need-to-know.html)
-- [CSSgram](https://github.com/una/CSSgram) - 图片滤镜库，终于可以用 CSS 在 web 上实现滤镜的效果， [Can I Use](http://caniuse.com/#search=CSS%20Blend%20Modes)
-- [HINT.css](https://github.com/chinchang/hint.css) - 一款非常小巧的提示框效果
-- [Balloon.css](http://kazzkiq.github.io/balloon.css/) - 一款非常小巧的提示框效果
-- [Hover.css](http://ianlunn.github.io/Hover/) - 很多鼠标 Hover 态的效果
-- [Cursor](http://css-cursor.techstream.org/) - 记录各浏览器对Cursor的支持情况
-- [csscss](https://github.com/zmoazeni/csscss) - 用于检查 CSS 代码冗余
-- [purecss](http://purecss.io/) - 小巧的响应式 CSS 库，Yahoo!出品
-- [hamburgers](https://jonsuh.com/hamburgers/) - 简单的动画库，让 Click(or Tap) 变得美妙
-- [cssmatic](http://www.cssmatic.com) - 一个帮忙调试CSS效果的工具
+- [MetroUI-很有个性的UI](http://metroui.org.ua/)
+- [Font-Awesome-图标字体库](http://fontawesome.io/)
+- [LoadersCSS-用 CSS 实现 loading 动画](https://connoratherton.com/loaders)
+- [text-spinners-spinners 效果的库，适合用来做 loading](https://github.com/tawian/text-spinners)
+- [WeUI-套同微信原生视觉体验一致的基础样式库 为微信 Web 开发量身设计](https://github.com/weui/weui)
+- [PostCSS](https://github.com/postcss/postcss) 
+- [《PostCSS深入学习》](http://www.w3cplus.com/PostCSS/postcss-deep-dive-what-you-need-to-know.html)
+- [CSSgram-图片滤镜库用 CSS 在 web 上实现滤镜的效果](https://github.com/una/CSSgram)
+- [HINT.css-提示框效果](https://github.com/chinchang/hint.css)
+- [Balloon.css-提示框效果](http://kazzkiq.github.io/balloon.css/)
+- [Hover.css-鼠标 Hover 态的效果](http://ianlunn.github.io/Hover/)
+- [Cursor-记录各浏览器对Cursor的支持情况](http://css-cursor.techstream.org/)
+- [csscss-用于检查 CSS 代码冗余](https://github.com/zmoazeni/csscss)
+- [purecss-小巧的响应式 CSS 库，Yahoo!出品](http://purecss.io/)
+- [hamburgers-简单的动画库，让 Click(or Tap) 变得美妙](https://jonsuh.com/hamburgers/)
+- [cssmatic-调试CSS效果的工具](http://www.cssmatic.com)
 
 ### 语言
  - [Rust语言圣经](https://github.com/sunface/rust-course)
