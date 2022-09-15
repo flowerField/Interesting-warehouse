@@ -41,6 +41,9 @@
 ### 网站
 - [编程导航](https://www.code-nav.cn/)
 - [程序员盒子](https://www.coderutil.com/)
+- [程序员客栈](https://www.proginn.com/)
+- [基于全球IT人才库的价值交付中心](http://toppro.io/)
+- [电鸭](https://eleduck.com/)
 
 ### UML
 - [UML-Diagrams](https://www.uml-diagrams.org/sequence-diagrams.html)
@@ -48,7 +51,8 @@
 ### 人
  - [substack](https://github.com/substack)
  - [John Z.Sonmez](https://twitter.com/simpleprogrammr)
-
+ - [Daniel Cohen Gindi](https://github.com/danielgindi)
+ 
 ### 语言
  - [Rust语言圣经](https://github.com/sunface/rust-course)
  - [7天学会NodeJS](https://github.com/nqdeng/7-days-nodejs)
@@ -67,6 +71,14 @@
 - [腾讯前端跨框架框架-Omi](https://github.com/Tencent/omi)
 - [腾讯移动 Web 前端知识库](https://github.com/AlloyTeam/Mars)
 - [webfunny-轻量级的前端监控系统](https://github.com/a597873885/webfunny_monitor)
+
+### 设计
+
+**工具** [Figma](https://www.figma.com)｜ [Sketch](https://www.sketch.com) ｜ [Vectary3D](https://www.vectary.com) ｜ [Blender](https://www.blender.org)
+
+**平台** [Fluent Design System](http://fluent.microsoft.com)｜ [Google Design](https://design.google) ｜ [Material Design](https://material.io) ｜ [Facebook Design](http://facebook.design)
+
+**网站** [Dribbble](https://dribbble.com) ｜ [Behance](https://www.behance.net) ｜ [Fwa](https://thefwa.com) ｜ [awwward](https://www.awwwards.com) ｜ [Google font](https://fonts.google.com) ｜ [CodePen](https://codepen.io) ｜ [Fontello](http://fontello.com) ｜ [Are.na](https://www.are.na) ｜[Logo](http://www.logobook.com)
 
 ### 测试
 - [Mocha](https://github.com/mochajs/mocha)
@@ -156,6 +168,8 @@
 - [anywhere【将你的当前目录变成一个静态文件服务器的根目录】](https://www.npmjs.com/package/anywhere)
 
 ### CSS
+- [w3官方css指南](https://www.w3.org/TR/css-grid/)
+- [缓动函数速查表](https://easings.net/zh-cn#)
 - [MetroUI-很有个性的UI](http://metroui.org.ua/)
 - [Font-Awesome-图标字体库](http://fontawesome.io/)
 - [LoadersCSS-用 CSS 实现 loading 动画](https://connoratherton.com/loaders)
