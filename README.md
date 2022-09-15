@@ -23,6 +23,8 @@
 - [编程导航](https://www.code-nav.cn/)
 - [程序员盒子](https://www.coderutil.com/)
 
+### UML
+- [UML-Diagrams](https://www.uml-diagrams.org/sequence-diagrams.html)
 
 ### NPM包
 - [koa](http://koajs.com/) 
