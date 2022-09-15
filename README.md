@@ -3,6 +3,7 @@
 🏄 本仓库收集有意思（有用、有趣、有价值等）的代码仓库，包括但不限于前端开发、算法、面试、书籍、工具、资讯和框架等内容。
 
 ### 技术团队
+- [有道技术团队](https://my.oschina.net/youdaotech)
 - [美图技术团队-51](https://blog.51cto.com/u_15197658)
 - [腾讯 AlloyTeam 团队](http://www.alloyteam.com/)
 - [腾讯社交用户体验ISUX](https://isux.tencent.com/)
@@ -15,6 +16,10 @@
 - [飞猪前端团队](https://juejin.cn/user/3051900006845944)
 - [阿里业务平台体验技术团队](https://zhuanlan.zhihu.com/bp-xt)
 - [蚂蚁金服RichLab团队](https://www.zhihu.com/org/ma-yi-richlab-qian-duan-tuan-dui-76)
+- [vivo互联网技术](https://my.oschina.net/vivotech)
+- [Erda技术团队](https://my.oschina.net/erdateam)
+- [HMS Core技术团队](https://my.oschina.net/HMSCore)
+- [阿里巴巴终端技术](https://my.oschina.net/alimobile)
 
 ### 算法
 - [算法通关手册](https://github.com/itcharge/LeetCode-Py)
