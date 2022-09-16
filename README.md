@@ -2,6 +2,38 @@
 
 🏄 本仓库收集有意思（有用、有趣、有价值等）的代码仓库，包括但不限于前端开发、算法、面试、书籍、工具、资讯和框架等内容。
 
+### 算法
+- [算法通关手册](https://github.com/itcharge/LeetCode-Py)
+- [算法-动画演示](https://github.com/chefyuan/algorithm-base)
+- [GitBook十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
+- [李航《统计学习方法》算法](https://github.com/Dod-o/Statistical-Learning-Method_Code)
+- [算法导论中算法的C++实现](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)
+- [华校专开源系列](https://huaxiaozhuan.com/)
+- [代码随想录-leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+- [关注web和算法的博客](https://github.com/dongyuanxin/blog)
+- [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)
+- [最全的中文NLP资源库](https://github.com/fighting41love/funNLP)
+- [编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July)
+- [算法模板](https://github.com/greyireland/algorithm-pattern)
+- [图片压缩算法-鲁班](https://github.com/Curzibn/Luban)
+- [从0到1构建整个前端算法体系](https://github.com/sisterAn/JavaScript-Algorithms)
+- [用JavaScript实现的算法和数据结构](https://github.com/ConardLi/awesome-coding-js)
+
+### **网站**
+**综合** [编程导航](https://www.code-nav.cn/) | [程序员盒子](https://www.coderutil.com/) | [开源中国](https://www.oschina.net/)
+**问答** [思否-segmentfault](https://segmentfault.com/) | [stackoverflow](https://stackoverflow.com/)
+**知识**  [语雀](https://www.yuque.com/) | [Notion](https://www.notion.so/zh-cn) ｜ [Maxhub文档](https://docs.maxhub.com/) | [飞书](https://www.feishu.cn/) | [腾讯文档](https://docs.qq.com/)
+**工具** [智能命名-codelf](https://unbug.github.io/codelf) | [在线画图工具-ProcessOn](https://www.processon.com/) ｜ [迅捷白板](https://baiban.liuchengtu.com)
+**工作** [程序员客栈](https://www.proginn.com/) | [基于全球IT人才库的价值交付中心](http://toppro.io/) | [电鸭](https://eleduck.com/)
+
+### UML
+- [UML-Diagrams](https://www.uml-diagrams.org/sequence-diagrams.html)
+
+### 人
+ - [substack](https://github.com/substack)
+ - [John Z.Sonmez](https://twitter.com/simpleprogrammr)
+ - [Daniel Cohen Gindi](https://github.com/danielgindi)
+
 ### 技术团队
 - [有道技术团队](https://my.oschina.net/youdaotech)
 - [美图技术团队-51](https://blog.51cto.com/u_15197658)
@@ -21,38 +53,7 @@
 - [HMS Core技术团队](https://my.oschina.net/HMSCore)
 - [阿里巴巴终端技术](https://my.oschina.net/alimobile)
 
-### 算法
-- [算法通关手册](https://github.com/itcharge/LeetCode-Py)
-- [算法-动画演示](https://github.com/chefyuan/algorithm-base)
-- [GitBook十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
-- [李航《统计学习方法》算法](https://github.com/Dod-o/Statistical-Learning-Method_Code)
-- [算法导论中算法的C++实现](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)
-- [华校专开源系列](https://huaxiaozhuan.com/)
-- [代码随想录-leetcode-master](https://github.com/youngyangyang04/leetcode-master)
-- [关注web和算法的博客](https://github.com/dongyuanxin/blog)
-- [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)
-- [最全的中文NLP资源库](https://github.com/fighting41love/funNLP)
-- [编程之法：面试和算法心得](https://github.com/julycoding/The-Art-Of-Programming-By-July)
-- [算法模板](https://github.com/greyireland/algorithm-pattern)
-- [图片压缩算法-鲁班](https://github.com/Curzibn/Luban)
-- [从0到1构建整个前端算法体系](https://github.com/sisterAn/JavaScript-Algorithms)
-- [用JavaScript实现的算法和数据结构](https://github.com/ConardLi/awesome-coding-js)
 
-### 网站
-- [编程导航](https://www.code-nav.cn/)
-- [程序员盒子](https://www.coderutil.com/)
-- [程序员客栈](https://www.proginn.com/)
-- [基于全球IT人才库的价值交付中心](http://toppro.io/)
-- [电鸭](https://eleduck.com/)
-
-### UML
-- [UML-Diagrams](https://www.uml-diagrams.org/sequence-diagrams.html)
-
-### 人
- - [substack](https://github.com/substack)
- - [John Z.Sonmez](https://twitter.com/simpleprogrammr)
- - [Daniel Cohen Gindi](https://github.com/danielgindi)
- 
 ### 语言
  - [Rust语言圣经](https://github.com/sunface/rust-course)
  - [7天学会NodeJS](https://github.com/nqdeng/7-days-nodejs)
