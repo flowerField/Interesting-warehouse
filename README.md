@@ -20,15 +20,11 @@
 - [用JavaScript实现的算法和数据结构](https://github.com/ConardLi/awesome-coding-js)
 
 ### **网站**
-**综合** [编程导航](https://www.code-nav.cn/) | [程序员盒子](https://www.coderutil.com/) | [开源中国](https://www.oschina.net/)
-
-**问答** [思否-segmentfault](https://segmentfault.com/) | [stackoverflow](https://stackoverflow.com/)
-
-**知识**  [语雀](https://www.yuque.com/) | [Notion](https://www.notion.so/zh-cn) ｜ [Maxhub文档](https://docs.maxhub.com/) | [飞书](https://www.feishu.cn/) | [腾讯文档](https://docs.qq.com/)
-
-**工具** [智能命名-codelf](https://unbug.github.io/codelf) | [在线画图工具-ProcessOn](https://www.processon.com/) ｜ [迅捷白板](https://baiban.liuchengtu.com)
-
-**工作** [程序员客栈](https://www.proginn.com/) | [基于全球IT人才库的价值交付中心](http://toppro.io/) | [电鸭](https://eleduck.com/)
+- **综合** [编程导航](https://www.code-nav.cn/) | [程序员盒子](https://www.coderutil.com/) | [开源中国](https://www.oschina.net/)
+- **问答** [思否-segmentfault](https://segmentfault.com/) | [stackoverflow](https://stackoverflow.com/)
+- **知识**  [语雀](https://www.yuque.com/) | [Notion](https://www.notion.so/zh-cn) ｜ [Maxhub文档](https://docs.maxhub.com/) | [飞书](https://www.feishu.cn/) | [腾讯文档](https://docs.qq.com/)
+- **工具** [智能命名-codelf](https://unbug.github.io/codelf) | [在线画图工具-ProcessOn](https://www.processon.com/) ｜ [迅捷白板](https://baiban.liuchengtu.com)
+- **工作** [程序员客栈](https://www.proginn.com/) | [基于全球IT人才库的价值交付中心](http://toppro.io/) | [电鸭](https://eleduck.com/)
 
 ### UML
 - [UML-Diagrams](https://www.uml-diagrams.org/sequence-diagrams.html)
