@@ -127,6 +127,9 @@
  - [前端入门方法](https://github.com/qiu-deqing/FE-learning)
  - [《CNPM搭建私有的NPM服务》](http://blog.fens.me/nodejs-cnpm-npm/)
  - [Koa官方的文章教程](https://github.com/guo-yu/koa-guide)
+ - [前端自习课](https://github.com/pingan8787/Leo-JavaScript)
+ - [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+ - []
 
 ### 书籍
  - [计算机类常用电子书整理](https://github.com/iamshuaidi/CS-Book)
@@ -216,4 +219,6 @@
  - [整理收集最有趣的前端技术教程及文档](https://github.com/cucygh/fe-material)
  - [专业的编程导航](https://github.com/liyupi/code-nav)
  - [简单的虚拟DOM](https://github.com/livoras/simple-virtual-dom)
+ - [vite+vue3+gin搭建的开发基础平台](https://github.com/flipped-aurora/gin-vue-admin)
+ - [人人影视bot，完全对接人人影视全部无删减资源](https://github.com/tgbot-collection/YYeTsBot)
  
