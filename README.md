@@ -221,4 +221,6 @@
  - [简单的虚拟DOM](https://github.com/livoras/simple-virtual-dom)
  - [vite+vue3+gin搭建的开发基础平台](https://github.com/flipped-aurora/gin-vue-admin)
  - [人人影视bot，完全对接人人影视全部无删减资源](https://github.com/tgbot-collection/YYeTsBot)
+ - [Vue虚拟列表滚动——vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list)
+ - [Vue虚拟列表滚动——vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)
  
