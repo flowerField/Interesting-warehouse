@@ -223,4 +223,6 @@
  - [人人影视bot，完全对接人人影视全部无删减资源](https://github.com/tgbot-collection/YYeTsBot)
  - [Vue虚拟列表滚动——vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list)
  - [Vue虚拟列表滚动——vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)
+ - [TS类型覆盖率](https://github.com/plantain-00/type-coverage)
+ - [TS类型覆盖率报告](https://github.com/alexcanessa/typescript-coverage-report)
  
